@@ -1,8 +1,8 @@
 .todoHeading {
   font-weight: 700;
-  font-size: 50px; /* Larger font size for prominence */
-  color: darkslateblue; /* Dark slate blue for a modern, elegant touch */
+  font-size: 50px;
+  color: darkslateblue;
   margin: 30px 0;
   text-align: center;
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2); /* Subtle text shadow for depth */
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
 }

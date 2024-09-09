@@ -1,7 +1,7 @@
 .itemsContainer {
   padding: 20px;
   border-radius: 10px;
-  background-color: white; /* White background for items */
+  background-color: white;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
   margin-top: 30px;
 }
@@ -11,7 +11,7 @@
   align-items: center;
   margin: 15px 0;
   padding: 12px;
-  border-bottom: 1px solid #ddd; /* Light gray border */
+  border-bottom: 1px solid #ddd;
 }
 
 .col-6, .col-4, .col-2 {
@@ -19,12 +19,12 @@
 }
 
 .btn-danger {
-  background-color: lightcoral; /* Light coral */
+  background-color: lightcoral;
   border: none;
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .btn-danger:hover {
-  background-color: firebrick; /* Firebrick on hover */
+  background-color: firebrick;
   transform: scale(1.05);
 }
